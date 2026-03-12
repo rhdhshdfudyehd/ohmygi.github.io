@@ -1,1 +1,1 @@
-# ohmygi.github.io
+# github.io
